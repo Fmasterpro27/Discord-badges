@@ -75,17 +75,33 @@ This repository documents **badge names, availability, obtainability, unlock met
 
 | Title | Badge | Hover | Nitro Type | Obtainable | Earned By |
 |--------|--------|--------|------------|------------|-----------|
-| Bronze (1 month) | ![](assets/nitro_badge/bronze.png) | ![](assets/nitro_badge/hover/Bronze.svg) | Classic | ✅ Yes | Nitro Classic for 1 month |
-| Silver (3 months) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Silver.svg) | Classic | ✅ Yes | Nitro Classic for 3 months |
-| Gold (6 months) | ![](assets/nitro_badge/gold.png) | ![](assets/nitro_badge/hover/Gold.svg) | Classic | ✅ Yes | Nitro Classic for 6 months |
-| Platinum (12 months) | ![](assets/nitro_badge/platinum.png) | ![](assets/nitro_badge/hover/Platinum.svg) | Classic | ✅ Yes | Nitro Classic for 12 months |
-| Diamond (24 months) | ![](assets/nitro_badge/diamond.png) | ![](assets/nitro_badge/hover/Diamond.svg) | Classic | ✅ Yes | Nitro Classic for 24 months |
-| Emerald (36 months) | ![](assets/nitro_badge/emerald.png) | ![](assets/nitro_badge/hover/Emerald.svg) | Classic | ✅ Yes | Nitro Classic for 36 months |
-| Ruby (60 months) | ![](assets/nitro_badge/ruby.png) | ![](assets/nitro_badge/hover/Ruby.svg) | Classic | ✅ Yes | Nitro Classic for 60 months |
-| Opal (72+ months) | ![](assets/nitro_badge/opal.png) | ![](assets/nitro_badge/hover/Opal.svg) | Classic | ✅ Yes | Nitro Classic for 72+ months |
+| Bronze (1 month) | ![](assets/nitro_badge/bronze.png) | ![](assets/nitro_badge/hover/Bronze.svg) | Classic | ✅ Yes | Active Nitro Classic for 1 month. |
+| Silver (3 months) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Silver.svg) | Classic | ✅ Yes | Nitro active for 3 consecutive months |
+| Gold (6 months) | ![](assets/nitro_badge/gold.png) | ![](assets/nitro_badge/hover/Gold.svg) | Classic | ✅ Yes | 6 months of continuous Nitro |
+| Platinum (12 months) | ![](assets/nitro_badge/platinum.png) | ![](assets/nitro_badge/hover/Platinum.svg) | Classic | ✅ Yes | Loyal Nitro member for 1 year |
+| Diamond (24 months) | ![](assets/nitro_badge/diamond.png) | ![](assets/nitro_badge/hover/Diamond.svg) | Classic | ✅ Yes | Active Nitro for 2 yearss |
+| Emerald (36 months) | ![](assets/nitro_badge/emerald.png) | ![](assets/nitro_badge/hover/Emerald.svg) | Classic | ✅ Yes | 3 years of uninterrupted subscription |
+| Ruby (60 months) | ![](assets/nitro_badge/ruby.png) | ![](assets/nitro_badge/hover/Ruby.svg) | Classic | ✅ Yes | 5 years Nitro supporter |
+| Opal (72+ months) | ![](assets/nitro_badge/opal.png) | ![](assets/nitro_badge/hover/Opal.svg) | Classic | ✅ Yes | 6+ years of active membership |
 
 ---
 
+## Server Badges
+| Title | Badge | Dark Verson| Obtainable | Earned By |
+|--------|--------|--------|------------|-----------|
+| Boosted server Level 0 | ![](assets/server_badge/Boost0.svg) |--| ✅ Yes | Automatically applied when a server has not been boosted by any members. |
+| Boosted server Level 1 | ![](assets/server_badge/Boost1.svg) |--| ✅ Yes | Earned when a server receives its first boost, unlocking minor perk upgrades. |
+| Boosted server Level 2 | ![](assets/server_badge/Boost2.svg) |![](assets/server_badge/Boost2Light.svg)| ✅ Yes | Granted when a server reaches 2 boosts, improving server features and quality. |
+| Boosted server Level 3 | ![](assets/server_badge/Boost3Dark.svg) |![](assets/server_badge/Boost3Light.svg)| ✅ Yes | Awarded when a server gets 3 boosts or more, unlocking the highest boost perks. |
+| Server Owner | ![](assets/server_badge/Crown.svg) |--| ✅ Yes | Displayed for the user who officially owns and controls the server. |
+| Partner Server | ![](assets/server_badge/Partnered.svg) |--| ❌ No | Only available to servers selected for Discord’s official Partner Program. |
+| Verified Server | ![](assets/server_badge/Verified.svg) |--| ⏸️ | Awarded by Discord to trusted and authorized public servers. |
+| Community Server | ![](assets/server_badge/Community.svg) |--| ✅ Yes | Given to servers that enable Community Mode and follow Discord guidelines. |
+| Community Server (boosted) | ![](assets/server_badge/CommunityBoosted.svg) |--| ✅ Yes | Earned by community servers that are actively boosted by members. |
+| Internal Employee (Staff)| ![](assets/server_badge/Staff.svg) |--| ❌ No | Reserved for Discord’s internal systems and staff-only servers.|
+| Discoverable | ![](assets/server_badge/DiscoverableLight.svg) | ![](assets/server_badge/DiscoverableDark.svg) | ✅ Yes | Displayed when a server is approved to be listed publicly in server discovery. |
+| Public Server (Boosted) | ![](assets/server_badge/PublicBoosted.svg) |--| ✅ Yes | Given to discoverable servers that are also boosted by community members. |
+| I'm new here, say hi!| ![](assets/server_badge/NewHere.svg) |--| ✅ Yes | Assigned to new members when they join a server for the first time. |
 ## ❤️ Credits
 
 Maintained by **JackMa**  
