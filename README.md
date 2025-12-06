@@ -37,5 +37,6 @@
 |--------|--------|------------|-----------|
 | Automod | ![](assets/bot_badges/automod.svg) | ✅ | Obtained by a bot that is used for automod. |
 | Support Slash Commands | ![](assets/bot_badges/supportscommands.svg) | ✅ | Obtained by a bot that supports slash commands. |
+| This server has Bot Name premium | ![](assets/bot_badges/premiumbot.png) | ✅ | Obtained by a bot that is premium. |
 
 
