@@ -31,5 +31,11 @@
 | OP | ![](assets/discord_flags/OP.svg) | ✅ | Given to the original poster of a forum post. |
 |Server| ![](assets/discord_flags/Server.svg) | ✅ | Reserved by a "webhook" by following a channel.|
 
+## Bot Badges
+
+| Title | Badge | Obtainable | Earned By |
+|--------|--------|------------|-----------|
+| Automod | ![](assets/bot_badges/automod.svg) | ✅ | Obtained by a bot that is used for automod. |
+| Support Slash Commands | ![](assets/bot_badges/slashcommands.svg) | ✅ | Obtained by a bot that supports slash commands. |
 
 
