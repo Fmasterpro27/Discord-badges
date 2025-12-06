@@ -53,16 +53,15 @@
 | Server boosting (1 Year 6 month) | ![](assets/nitro_booster/discordboost8.svg) | ✅ | Obtained by boosting a server for 1 year 6 months.|
 | Server boosting (2 Years) | ![](assets/nitro_booster/discordboost9.svg) | ✅ | Obtained by boosting a server for 2 Years. |
 
-## Nitro badges
+## 💎 Nitro Badges
 
-| Title | Badge | Hover | Nitro Type| Obtainable | Earned By |
-
-|--------|--------|--------|--------|------------|-----------|
-| Bronze (1 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Bronze.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 1 month. |
-| Silver (3 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Silver.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 3 month. |
-| Gold (6 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Gold.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 6 month. |
-| Platinum (12 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Platinum.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 12 month. |
-| Diamona (24 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Diamond.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 24 month. |
-| Emerald (36 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Emerald.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 36 month. |
-| Ruby (60 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Ruby.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 60 month. |
-| Opal (72+ month) | ![](assets/nitro_badge/opal.png) | ![](assets/nitro_badge/hover/Opal.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 72+ month. |
+| Title | Badge | Hover | Nitro Type | Obtainable | Earned By |
+|--------|--------|--------|------------|------------|-----------|
+| Bronze (1 month) | ![](assets/nitro_badge/bronze.png) | ![](assets/nitro_badge/hover/Bronze.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 1 month |
+| Silver (3 months) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Silver.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 3 months |
+| Gold (6 months) | ![](assets/nitro_badge/gold.png) | ![](assets/nitro_badge/hover/Gold.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 6 months |
+| Platinum (12 months) | ![](assets/nitro_badge/platinum.png) | ![](assets/nitro_badge/hover/Platinum.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 12 months |
+| Diamond (24 months) | ![](assets/nitro_badge/diamond.png) | ![](assets/nitro_badge/hover/Diamond.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 24 months |
+| Emerald (36 months) | ![](assets/nitro_badge/emerald.png) | ![](assets/nitro_badge/hover/Emerald.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 36 months |
+| Ruby (60 months) | ![](assets/nitro_badge/ruby.png) | ![](assets/nitro_badge/hover/Ruby.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 60 months |
+| Opal (72+ months) | ![](assets/nitro_badge/opal.png) | ![](assets/nitro_badge/hover/Opal.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 72+ months |
