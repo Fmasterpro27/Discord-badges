@@ -9,6 +9,6 @@
 | HypeSquad Brilliance | ![](assets/profile_badges/hypesquadbrilliance.svg) | ❌ | Joining HypeSquad from Discord settings |
 | HypeSquad Balance | ![](assets/profile_badges/hypesquadbalance.svg) | ❌ | Joining HypeSquad from Discord settings |
 | Early Supporter | ![](assets/profile_badges/discordearlysupporter.svg) | ❌ | Being an early Discord Nitro subscriber |
-| Active Developer | ![](assets/profile_badges/activedeveloper.svg) | ❌ | Owning a Discord application that uses Slash Commands |
+| Active Developer | ![](assets/profile_badges/activedeveloper.png) | ❌ | Owning a Discord application that uses Slash Commands |
 
 
