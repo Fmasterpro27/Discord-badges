@@ -36,6 +36,6 @@
 | Title | Badge | Obtainable | Earned By |
 |--------|--------|------------|-----------|
 | Automod | ![](assets/bot_badges/automod.svg) | ✅ | Obtained by a bot that is used for automod. |
-| Support Slash Commands | ![](assets/bot_badges/slashcommands.svg) | ✅ | Obtained by a bot that supports slash commands. |
+| Support Slash Commands | ![](assets/bot_badges/supportscommands.svg) | ✅ | Obtained by a bot that supports slash commands. |
 
 
