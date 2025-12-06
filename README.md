@@ -29,7 +29,7 @@ This repository documents **badge names, availability, obtainability, unlock met
 | Certified Moderator | ![](assets/profile_badges/certifiedmod.svg) | ❌ No | Passing Discord moderator exam | 2025 |
 | Moderator Programs Alumni| ![](assets/profile_badges/discordmod.svg) | ❌ No | Completing Discord moderator training | 2022 |
 |HypeSquad Events | ![](assets/profile_badges/hypesquadevents.svg) | ❌ No | Attending HypeSquad events | 2019 |
-| Lootbox | ![](assets/profile_badges/lootbox.svg) | ❌ No | Unlock all Lootbox rewards during the Discord April Fools event and select the Avatar Decoration as your main one| 2024 |
+| Lootbox | ![](assets/profile_badges/discordlootbox.svg) | ❌ No | Unlock all Lootbox rewards during the Discord April Fools event and select the Avatar Decoration as your main one| 2024 |
 | Nitro | ![](assets/profile_badges/discordnitro.svg) | ✅ Yes | Subscribing to Discord Nitro | — |
 | Quest | ![](assets/profile_badges/quest.png) | ✅ Yes | Completing Discord quests | — |
 
