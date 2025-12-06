@@ -2,7 +2,7 @@
 
 | Title | Badge | Obtainable | Earned By | Removed When |
 |--------|--------|------------|-----------|-----------|
-| Orbs | ![](assets/profile_badges/orbs.png) | ✅ | Buying with 120 orbs | 2025 |
+| Orbs | ![](assets/profile_badges/orb.png) | ✅ | Buying with 120 orbs | 2025 |
 | Discord Staff | ![](assets/profile_badges/discordstaff.svg) | ✅ | Working officially at Discord | |
 | Partnered Server Owner | ![](assets/profile_badges/discordpartner.svg) | ❌ | Owning a verified partnered server | October 2023|
 | HypeSquad Bravery | ![](assets/profile_badges/hypesquadbravery.svg) | ❌ | Joining HypeSquad from Discord settings | 2025 |
