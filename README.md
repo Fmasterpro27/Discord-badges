@@ -11,5 +11,6 @@
 | Bug Hunter (Gold) | ![](assets/profile_badges/discordbughunter2.svg) | ✅ | Reporting security issues | |
 | Early Supporter | ![](assets/profile_badges/earlysupporter.png) | ❌ | Being an early Discord Nitro subscriber | 2018 |
 | Active Developer | ![](assets/profile_badges/activedeveloper.svg) | ❌ | Owning a Discord application that uses Slash Commands |  2025 |
+| Discord Verifyed Developer | ![](assets/profile_badges/discordbotdev.svg)| ❌ | Owning a verified discord bot before August 19, 2020 | 2020 |
 
 
