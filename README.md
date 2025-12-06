@@ -89,19 +89,19 @@ This repository documents **badge names, availability, obtainability, unlock met
 ## Server Badges
 | Title | Badge | Dark Verson| Obtainable | Earned By |
 |--------|--------|--------|------------|-----------|
-| Boosted server Level 0 | ![](assets/server_badge/Boost0.svg) | — | ✅ Yes | Automatically applied when a server has not been boosted by any members. |
-| Boosted server Level 1 | ![](assets/server_badge/Boost1.svg) | — | ✅ Yes | Earned when a server receives its first boost, unlocking minor perk upgrades. |
+| Boosted server Level 0 | ![](assets/server_badge/Boost0.svg) |  | ✅ Yes | Automatically applied when a server has not been boosted by any members. |
+| Boosted server Level 1 | ![](assets/server_badge/Boost1.svg) | | ✅ Yes | Earned when a server receives its first boost, unlocking minor perk upgrades. |
 | Boosted server Level 2 | ![](assets/server_badge/Boost2Dark.svg) |![](assets/server_badge/Boost2Light.svg)| ✅ Yes | Granted when a server reaches 2 boosts, improving server features and quality. |
 | Boosted server Level 3 | ![](assets/server_badge/Boost3Dark.svg) |![](assets/server_badge/Boost3Light.svg)| ✅ Yes | Awarded when a server gets 3 boosts or more, unlocking the highest boost perks. |
-| Server Owner | ![](assets/server_badge/Crown.svg) | — | ✅ Yes | Displayed for the user who officially owns and controls the server. |
-| Partner Server | ![](assets/server_badge/Partnered.svg) | — | ❌ No | Only available to servers selected for Discord’s official Partner Program. |
-| Verified Server | ![](assets/server_badge/Verified.svg) | — | ⏸️ | Awarded by Discord to trusted and authorized public servers. |
-| Community Server | ![](assets/server_badge/CommunityLight.svg) | — | ✅ Yes | Given to servers that enable Community Mode and follow Discord guidelines. |
-| Community Server (boosted) | ![](assets/server_badge/CommunityBoosted.svg) |—| ✅ Yes | Earned by community servers that are actively boosted by members. |
-| Internal Employee (Staff)| ![](assets/server_badge/Staff.svg) | — | ❌ No | Reserved for Discord’s internal systems and staff-only servers.|
+| Server Owner | ![](assets/server_badge/Crown.svg) |  | ✅ Yes | Displayed for the user who officially owns and controls the server. |
+| Partner Server | ![](assets/server_badge/Partnered.svg) |  | ❌ No | Only available to servers selected for Discord’s official Partner Program. |
+| Verified Server | ![](assets/server_badge/Verified.svg) |  | ⏸️ | Awarded by Discord to trusted and authorized public servers. |
+| Community Server | ![](assets/server_badge/CommunityLight.svg) |  | ✅ Yes | Given to servers that enable Community Mode and follow Discord guidelines. |
+| Community Server (boosted) | ![](assets/server_badge/CommunityBoosted.svg) || ✅ Yes | Earned by community servers that are actively boosted by members. |
+| Internal Employee (Staff)| ![](assets/server_badge/Staff.svg) |  | ❌ No | Reserved for Discord’s internal systems and staff-only servers.|
 | Discoverable | ![](assets/server_badge/DiscoverableLight.svg) | ![](assets/server_badge/DiscoverableDark.svg) | ✅ Yes | Displayed when a server is approved to be listed publicly in server discovery. |
 | Public Server (Boosted) | ![](assets/server_badge/DiscoverableBoosted.svg) | ![](assets/server_badge/DiscoverableDark.svg)| ✅ Yes | Given to discoverable servers that are also boosted by community members. |
-| I'm new here, say hi!| ![](assets/server_badge/NewHere.svg) | — | ✅ Yes | Assigned to new members when they join a server for the first time. |
+| I'm new here, say hi!| ![](assets/server_badge/NewHere.svg) | | ✅ Yes | Assigned to new members when they join a server for the first time. |
 ## ❤️ Credits
 
 Maintained by **JackMa**  
