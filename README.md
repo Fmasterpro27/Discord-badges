@@ -1,5 +1,17 @@
-## 🎖 Discord Badges
+# 🎖 Discord Badges Collection
 
+A complete, open-source database of **Discord profile badges, Nitro badges, bot badges, moderation badges, and legacy Discord icons**.  
+This repository documents **badge names, availability, obtainability, unlock methods, and removal dates** — perfect for developers, server owners, and collectors.
+
+📌 Includes:
+- Profile badges
+- Nitro & Booster badges
+- Bot & App flags
+- Legacy & removed badges
+- Hover previews
+- Badge history
+
+## Profile Badge
 | Title | Badge | Obtainable | Earned By | Removed When |
 |--------|--------|------------|-----------|-----------|
 | Orbs | ![](assets/profile_badges/orb.svg) | ✅ | Buying with 120 orbs | 2025 |
