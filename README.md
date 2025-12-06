@@ -81,3 +81,31 @@ This repository documents **badge names, availability, obtainability, unlock met
 | Ruby (60 months) | ![](assets/nitro_badge/ruby.png) | ![](assets/nitro_badge/hover/Ruby.svg) | Classic | ✅ Yes | Nitro Classic for 60 months |
 | Opal (72+ months) | ![](assets/nitro_badge/opal.png) | ![](assets/nitro_badge/hover/Opal.svg) | Classic | ✅ Yes | Nitro Classic for 72+ months |
 
+---
+
+## ❤️ Credits
+
+Maintained by **JackMa**  
+Special thanks to the open-source community for contributions and documentation.
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**.
+
+You are free to:
+- Use ✅
+- Modify ✅
+- Distribute ✅
+- Include in personal or commercial projects ✅
+
+As long as you provide attribution.
+
+---
+
+## ⚠️ Disclaimer
+
+Some badge data is based on community knowledge and historical records.
+Information may change — this repository does not guarantee official accuracy.
+
