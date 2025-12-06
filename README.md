@@ -58,15 +58,15 @@ This repository documents **badge names, availability, obtainability, unlock met
 
 | Title | Badge | Obtainable | Earned By |
 |--------|--------|------------|-----------|
-| Server boosting (1 Month) | ![](assets/nitro_booster/discordboost1.svg) | ✅ | Obtained by boosting a server for 1 month. |
-| Server boosting (2 Months) | ![](assets/nitro_booster/discordboost2.svg) | ✅ | Obtained by boosting a server for 2 months. |
-| Server boosting (3 Months) | ![](assets/nitro_booster/discordboost3.svg) | ✅ | Obtained by boosting a server for 3 months. |
-| Server boosting (6 Months) | ![](assets/nitro_booster/discordboost4.svg) | ✅ | Obtained by boosting a server for 6 months. |
-| Server boosting (9 Months) | ![](assets/nitro_booster/discordboost5.svg) | ✅ | Obtained by boosting a server for 9 months. |
-| Server boosting (1 Year) | ![](assets/nitro_booster/discordboost6.svg) | ✅ | Obtained by boosting a server for 1 Year. |
-| Server boosting (1 Year 3 month) | ![](assets/nitro_booster/discordboost7.svg) | ✅ | Obtained by boosting a server for  1 year 3 months.|
-| Server boosting (1 Year 6 month) | ![](assets/nitro_booster/discordboost8.svg) | ✅ | Obtained by boosting a server for 1 year 6 months.|
-| Server boosting (2 Years) | ![](assets/nitro_booster/discordboost9.svg) | ✅ | Obtained by boosting a server for 2 Years. |
+| Server boosting (1 Month) | ![](assets/nitro_booster/discordboost1.svg) | ✅ Yes | Obtained by boosting a server for 1 month. |
+| Server boosting (2 Months) | ![](assets/nitro_booster/discordboost2.svg) | ✅ Yes | Obtained by boosting a server for 2 months. |
+| Server boosting (3 Months) | ![](assets/nitro_booster/discordboost3.svg) | ✅ Yes | Obtained by boosting a server for 3 months. |
+| Server boosting (6 Months) | ![](assets/nitro_booster/discordboost4.svg) | ✅ Yes | Obtained by boosting a server for 6 months. |
+| Server boosting (9 Months) | ![](assets/nitro_booster/discordboost5.svg) | ✅ Yes | Obtained by boosting a server for 9 months. |
+| Server boosting (1 Year) | ![](assets/nitro_booster/discordboost6.svg) | ✅ Yes | Obtained by boosting a server for 1 Year. |
+| Server boosting (1 Year 3 month) | ![](assets/nitro_booster/discordboost7.svg) | ✅ Yes | Obtained by boosting a server for  1 year 3 months.|
+| Server boosting (1 Year 6 month) | ![](assets/nitro_booster/discordboost8.svg) | ✅ Yes | Obtained by boosting a server for 1 year 6 months.|
+| Server boosting (2 Years) | ![](assets/nitro_booster/discordboost9.svg) | ✅ Yes | Obtained by boosting a server for 2 Years. |
 
 ## 💎 Nitro Badges
 
