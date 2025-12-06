@@ -2,6 +2,7 @@
 
 | Title | Badge | Obtainable | Earned By | Removed When |
 |--------|--------|------------|-----------|-----------|
+| Orbs | ![](assets/profile_badges/orbs.png) | ✅ | Buying with 120 orbs | 2025 |
 | Discord Staff | ![](assets/profile_badges/discordstaff.svg) | ✅ | Working officially at Discord | |
 | Partnered Server Owner | ![](assets/profile_badges/discordpartner.svg) | ❌ | Owning a verified partnered server | October 2023|
 | HypeSquad Bravery | ![](assets/profile_badges/hypesquadbravery.svg) | ❌ | Joining HypeSquad from Discord settings | 2025 |
@@ -16,4 +17,3 @@
 | Discord Certified Moderator | ![](assets/profile_badges/certifiedmod.svg) | ❌ | Passing the Discord Certified Moderator exam | 2022 |
 | Nitro | ![](assets/profile_badges/discordnitro.svg) | ✅ | Owning Discord Nitro | 2025 |
 | Quest | ![](assets/profile_badges/quest.png) | ✅ | Completing a Discord Quest | 2025 |
-
