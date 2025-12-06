@@ -39,4 +39,17 @@
 | Support Slash Commands | ![](assets/bot_badges/supportscommands.svg) | ✅ | Obtained by a bot that supports slash commands. |
 | This server has Bot Name premium | ![](assets/bot_badges/premiumbot.png) | ✅ | Obtained by a bot that is premium. |
 
+## Nitro Badge
+
+| Title | Badge | Obtainable | Earned By |
+|--------|--------|------------|-----------|
+| Server boosting (1 Month) | ![](assets/nitro_badges/discordboost1.svg) | ✅ | Obtained by boosting a server for 1 month. |
+| Server boosting (2 Months) | ![](assets/nitro_badges/discordboost2.svg) | ✅ | Obtained by boosting a server for 2 months. |
+| Server boosting (3 Months) | ![](assets/nitro_badges/discordboost3.svg) | ✅ | Obtained by boosting a server for 3 months. |
+| Server boosting (6 Months) | ![](assets/nitro_badges/discordboost4.svg) | ✅ | Obtained by boosting a server for 6 months. |
+| Server boosting (9 Months) | ![](assets/nitro_badges/discordboost5.svg) | ✅ | Obtained by boosting a server for 9 months. |
+| Server boosting (1 Year) | ![](assets/nitro_badges/discordboost6.svg) | ✅ | Obtained by boosting a server for 1 Year. |
+| Server boosting (1 Year 3 month) | ![](assets/nitro_badges/discordboost7.svg) | ✅ | Obtained by boosting a server for  1 year 3 months.|
+| Server boosting (1 Year 6 month) | ![](assets/nitro_badges/discordboost8.svg) | ✅ | Obtained by boosting a server for 1 year 6 months.|
+| Server boosting (2 Years) | ![](assets/nitro_badges/discordboost9.svg) | ✅ | Obtained by boosting a server for 2 Years. |
 
