@@ -13,43 +13,46 @@ This repository documents **badge names, availability, obtainability, unlock met
 
 ## Profile Badge
 | Title | Badge | Obtainable | Earned By | Removed When |
-|--------|--------|------------|-----------|-----------|
-| Orbs | ![](assets/profile_badges/orb.svg) | ✅ | Buying with 120 orbs | 2025 |
-| Discord Staff | ![](assets/profile_badges/discordstaff.svg) | ✅ | Working officially at Discord | |
-| Partnered Server Owner | ![](assets/profile_badges/discordpartner.svg) | ❌ | Owning a verified partnered server | October 2023|
-| HypeSquad Bravery | ![](assets/profile_badges/hypesquadbravery.svg) | ❌ | Joining HypeSquad from Discord settings | 2025 |
-| HypeSquad Brilliance | ![](assets/profile_badges/hypesquadbrilliance.svg) | ❌ | Joining HypeSquad from Discord settings | 2025 |
-| HypeSquad Balance | ![](assets/profile_badges/hypesquadbalance.svg) | ❌ | Joining HypeSquad from Discord settings| 2025 |
-| Bug Hunter (Normal) | ![](assets/profile_badges/discordbughunter1.svg) | ✅ | Reporting security issues |
-| Bug Hunter (Gold) | ![](assets/profile_badges/discordbughunter2.svg) | ✅ | Reporting security issues |
-| Early Supporter | ![](assets/profile_badges/earlysupporter.png) | ❌ | Being an early Discord Nitro subscriber | 2018 |
-| Active Developer | ![](assets/profile_badges/activedeveloper.svg) | ❌ | Owning a Discord application that uses Slash Commands |  2025 |
-| Discord Verifyed Developer | ![](assets/profile_badges/discordbotdev.svg)| ❌ | Owning a verified discord bot before August 19, 2020 | 2020 |
-| Original Know as | ![](assets/profile_badges/username.png) | ❌ | Given to people when they change to the new username system  | October 2023 |
-| Discord Certified Moderator | ![](assets/profile_badges/certifiedmod.svg) | ❌ | Passing the Discord Certified Moderator exam | 2025 |
-| Nitro | ![](assets/profile_badges/discordnitro.svg) | ✅ | Owning Discord Nitro | 2025 |
-| Quest | ![](assets/profile_badges/quest.png) | ✅ | Completing a Discord Quest | 2025 |
+|--------|--------|------------|-----------|-------------|
+| Orbs | ![](assets/profile_badges/orb.svg) | ✅ Yes | Purchasing with 120 Orbs | - |
+| Discord Staff | ![](assets/profile_badges/discordstaff.svg) | ✅ Yes | Being officially employed by Discord | — |
+| Partnered Server Owner | ![](assets/profile_badges/discordpartner.svg) | ❌ No | Owning a verified partnered server | October 2023 |
+| HypeSquad Bravery | ![](assets/profile_badges/hypesquadbravery.svg) | ❌ No | Joining HypeSquad via Discord settings | 2025 |
+| HypeSquad Brilliance | ![](assets/profile_badges/hypesquadbrilliance.svg) | ❌ No | Joining HypeSquad via Discord settings | 2025 |
+| HypeSquad Balance | ![](assets/profile_badges/hypesquadbalance.svg) | ❌ No | Joining HypeSquad via Discord settings | 2025 |
+| Bug Hunter (Normal) | ![](assets/profile_badges/discordbughunter1.svg) | ✅ Yes | Successfully reporting security issues | — |
+| Bug Hunter (Gold) | ![](assets/profile_badges/discordbughunter2.svg) | ✅ Yes | Reporting critical vulnerabilities | — |
+| Early Supporter | ![](assets/profile_badges/earlysupporter.png) | ❌ No | Early Discord Nitro subscriber | 2018 |
+| Active Developer | ![](assets/profile_badges/activedeveloper.svg) | ❌ No | Owning active application with slash commands | 2025 |
+| Verified Bot Developer | ![](assets/profile_badges/discordbotdev.svg) | ❌ No | Having verified bot before Aug 19, 2020 | 2020 |
+| Original Username | ![](assets/profile_badges/username.png) | ❌ No | Given during username system migration | October 2023 |
+| Certified Moderator | ![](assets/profile_badges/certifiedmod.svg) | ❌ No | Passing Discord moderator exam | 2025 |
+| Nitro | ![](assets/profile_badges/discordnitro.svg) | ✅ Yes | Subscribing to Discord Nitro | — |
+| Quest | ![](assets/profile_badges/quest.png) | ✅ Yes | Completing Discord quests | — |
+
 
 ## Discord Flags
 
 | Title | Badge | Obtainable | Earned By |
 |--------|--------|------------|-----------|
-|Official | ![](assets/discord_flags/Official.svg) | ❌ | Reserved for discord official system or automod messages. (New) |
-| Beta | ![](assets/discord_flags/Beta.svg) | ❌ | Reserved for discord beta features. (New) |
-| System | ![](assets/discord_flags/System.svg) | ❌ | Reserved for discord system messages. (New) |
-| Ai | ![](assets/discord_flags/Ai.svg) | ❌ | Only for the Clyde Ai bot. |
-| Verified App | ![](assets/discord_flags/VerifiedApp.svg) | ✅ | Obtained by a verified bot. |
-|App | ![](assets/discord_flags/App.svg) | ✅ | Obtained by a bot. |
-| OP | ![](assets/discord_flags/OP.svg) | ✅ | Given to the original poster of a forum post. |
-|Server| ![](assets/discord_flags/Server.svg) | ✅ | Reserved by a "webhook" by following a channel.|
+| Official | ![](assets/discord_flags/Official.svg) | ❌ No | Reserved for official Discord system |
+| Beta | ![](assets/discord_flags/Beta.svg) | ❌ No | Reserved for Discord beta testing |
+| System | ![](assets/discord_flags/System.svg) | ❌ No | Used in system messages |
+| AI | ![](assets/discord_flags/Ai.svg) | ❌ No | Used by Clyde AI |
+| Verified App | ![](assets/discord_flags/VerifiedApp.svg) | ✅ Yes | Obtained by verified applications |
+| App | ![](assets/discord_flags/App.svg) | ✅ Yes | Given to bot accounts |
+| OP | ![](assets/discord_flags/OP.svg) | ✅ Yes | Assigned to forum post creator |
+| Server | ![](assets/discord_flags/Server.svg) | ✅ Yes | Used by webhooks |
+
 
 ## Bot Badges
 
 | Title | Badge | Obtainable | Earned By |
 |--------|--------|------------|-----------|
-| Automod | ![](assets/bot_badges/automod.svg) | ✅ | Obtained by a bot that is used for automod. |
-| Support Slash Commands | ![](assets/bot_badges/supportscommands.svg) | ✅ | Obtained by a bot that supports slash commands. |
-| This server has Bot Name premium | ![](assets/bot_badges/premiumbot.png) | ✅ | Obtained by a bot that is premium. |
+| AutoMod | ![](assets/bot_badges/automod.svg) | ✅ Yes | Running moderation features |
+| Supports Slash Commands | ![](assets/bot_badges/supportscommands.svg) | ✅ Yes | Implementing application commands |
+| Premium Bot | ![](assets/bot_badges/premiumbot.png) | ✅ Yes | Offering premium services |
+
 
 ## Nitro Booster Badges
 
@@ -69,11 +72,12 @@ This repository documents **badge names, availability, obtainability, unlock met
 
 | Title | Badge | Hover | Nitro Type | Obtainable | Earned By |
 |--------|--------|--------|------------|------------|-----------|
-| Bronze (1 month) | ![](assets/nitro_badge/bronze.png) | ![](assets/nitro_badge/hover/Bronze.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 1 month |
-| Silver (3 months) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Silver.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 3 months |
-| Gold (6 months) | ![](assets/nitro_badge/gold.png) | ![](assets/nitro_badge/hover/Gold.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 6 months |
-| Platinum (12 months) | ![](assets/nitro_badge/platinum.png) | ![](assets/nitro_badge/hover/Platinum.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 12 months |
-| Diamond (24 months) | ![](assets/nitro_badge/diamond.png) | ![](assets/nitro_badge/hover/Diamond.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 24 months |
-| Emerald (36 months) | ![](assets/nitro_badge/emerald.png) | ![](assets/nitro_badge/hover/Emerald.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 36 months |
-| Ruby (60 months) | ![](assets/nitro_badge/ruby.png) | ![](assets/nitro_badge/hover/Ruby.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 60 months |
-| Opal (72+ months) | ![](assets/nitro_badge/opal.png) | ![](assets/nitro_badge/hover/Opal.svg) | Nitro Classic | ✅ Yes | Having Nitro Classic for 72+ months |
+| Bronze (1 month) | ![](assets/nitro_badge/bronze.png) | ![](assets/nitro_badge/hover/Bronze.svg) | Classic | ✅ Yes | Nitro Classic for 1 month |
+| Silver (3 months) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Silver.svg) | Classic | ✅ Yes | Nitro Classic for 3 months |
+| Gold (6 months) | ![](assets/nitro_badge/gold.png) | ![](assets/nitro_badge/hover/Gold.svg) | Classic | ✅ Yes | Nitro Classic for 6 months |
+| Platinum (12 months) | ![](assets/nitro_badge/platinum.png) | ![](assets/nitro_badge/hover/Platinum.svg) | Classic | ✅ Yes | Nitro Classic for 12 months |
+| Diamond (24 months) | ![](assets/nitro_badge/diamond.png) | ![](assets/nitro_badge/hover/Diamond.svg) | Classic | ✅ Yes | Nitro Classic for 24 months |
+| Emerald (36 months) | ![](assets/nitro_badge/emerald.png) | ![](assets/nitro_badge/hover/Emerald.svg) | Classic | ✅ Yes | Nitro Classic for 36 months |
+| Ruby (60 months) | ![](assets/nitro_badge/ruby.png) | ![](assets/nitro_badge/hover/Ruby.svg) | Classic | ✅ Yes | Nitro Classic for 60 months |
+| Opal (72+ months) | ![](assets/nitro_badge/opal.png) | ![](assets/nitro_badge/hover/Opal.svg) | Classic | ✅ Yes | Nitro Classic for 72+ months |
+
