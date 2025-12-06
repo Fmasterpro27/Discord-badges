@@ -22,10 +22,14 @@
 
 | Title | Badge | Obtainable | Earned By |
 |--------|--------|------------|-----------|
-|Official | ![](assets/discord_flags/Official.svg) | ❌ | Reserved for discord official system or automod messages. |
-| Beta | ![](assets/discord_flags/Beta.svg) | ❌ | Reserved for discord beta features. |
-| System | ![](assets/discord_flags/System.svg) | ❌ | Reserved for discord system messages. |
+|Official | ![](assets/discord_flags/Official.svg) | ❌ | Reserved for discord official system or automod messages. (New) |
+| Beta | ![](assets/discord_flags/Beta.svg) | ❌ | Reserved for discord beta features. (New) |
+| System | ![](assets/discord_flags/System.svg) | ❌ | Reserved for discord system messages. (New) |
 | Verified App | ![](assets/discord_flags/VerifiedApp.svg) | ✅ | Obtained by a verified bot. |
+|App | ![](assets/discord_flags/App.svg) | ✅ | Obtained by a bot. |
 | OP | ![](assets/discord_flags/OP.svg) | ✅ | Given to the original poster of a forum post. |
+| Ai | ![](assets/discord_flags/Ai.svg) | ❌ | Only for the Clyde Ai bot. |
+|Server| ![](assets/discord_flags/Server.svg) | ✅ | Reserved by a "webhook" by following a channel.|
+
 
 
