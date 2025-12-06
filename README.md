@@ -22,9 +22,9 @@
 
 | Title | Badge | Obtainable | Earned By |
 |--------|--------|------------|-----------|
-|Official | ![](assets/discord_flags/Official.svg) | ❌ | Reserved for discord official system or automod messages. (New) |
-| Beta | ![](assets/discord_flags/Beta.svg) | ❌ | Reserved for discord beta features. (New) |
-| System | ![](assets/discord_flags/System.svg) | ❌ | Reserved for discord system messages. (New) |
+|Official | ![](assets/discord_flags/Official.svg) | ❌ | Reserved for discord official system or automod messages. |
+| Beta | ![](assets/discord_flags/Beta.svg) | ❌ | Reserved for discord beta features. |
+| System | ![](assets/discord_flags/System.svg) | ❌ | Reserved for discord system messages. |
 | Verified App | ![](assets/discord_flags/VerifiedApp.svg) | ✅ | Obtained by a verified bot. |
 | OP | ![](assets/discord_flags/OP.svg) | ✅ | Given to the original poster of a forum post. |
 
