@@ -39,7 +39,7 @@
 | Support Slash Commands | ![](assets/bot_badges/supportscommands.svg) | ✅ | Obtained by a bot that supports slash commands. |
 | This server has Bot Name premium | ![](assets/bot_badges/premiumbot.png) | ✅ | Obtained by a bot that is premium. |
 
-## Nitro Badge
+## Nitro Booster Badges
 
 | Title | Badge | Obtainable | Earned By |
 |--------|--------|------------|-----------|
@@ -53,3 +53,16 @@
 | Server boosting (1 Year 6 month) | ![](assets/nitro_booster/discordboost8.svg) | ✅ | Obtained by boosting a server for 1 year 6 months.|
 | Server boosting (2 Years) | ![](assets/nitro_booster/discordboost9.svg) | ✅ | Obtained by boosting a server for 2 Years. |
 
+## Nitro badges
+
+| Title | Badge | Hover | Nitro Type| Obtainable | Earned By |
+
+|--------|--------|--------|--------|------------|-----------|
+| Bronze (1 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Bronze.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 1 month. |
+| Silver (3 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Silver.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 3 month. |
+| Gold (6 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Gold.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 6 month. |
+| Platinum (12 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Platinum.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 12 month. |
+| Diamona (24 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Diamond.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 24 month. |
+| Emerald (36 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Emerald.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 36 month. |
+| Ruby (60 month) | ![](assets/nitro_badge/silver.png) | ![](assets/nitro_badge/hover/Ruby.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 60 month. |
+| Opal (72+ month) | ![](assets/nitro_badge/opal.png) | ![](assets/nitro_badge/hover/Opal.svg) | Nitro Classic | ✅ | Obtained by having Nitro Classic for 72+ month. |
