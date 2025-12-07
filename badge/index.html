@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Discord Badge</title>
+    <meta name="description" content="Detailed information about this Discord badge.">
+    <meta name="robots" content="index, follow">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --bg: #0a0a0a;
+            --card-bg: #111111;
+            --text: #e0e0e0;
+            --text-muted: #888888;
+            --accent: #5865f2;
+            --border: #222222;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 680px;
+            margin: 40px auto;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            padding: 60px 40px;
+            text-align: center;
+            position: relative;
+        }
+
+        .badge-large {
+            width: 160px;
+            height: 160px;
+            object-fit: contain;
+            filter: drop-shadow(0 0 40px rgba(88, 101, 242, 0.4));
+            margin-bottom: 24px;
+        }
+
+        .badge-name {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: white;
+            margin-bottom: 12px;
+        }
+
+        .badge-category {
+            color: var(--accent);
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: 600;
+        }
+
+        .content {
+            padding: 48px;
+        }
+
+        .status {
+            display: inline-block;
+            padding: 10px 28px;
+            border-radius: 50px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 32px;
+        }
+
+        .status-yes     { background: rgba(87, 242, 135, 0.15); color: #57f287; border: 1px solid rgba(87, 242, 135, 0.4); }
+        .status-no      { background: rgba(237, 66, 69, 0.15);   color: #ed4245; border: 1px solid rgba(237, 66, 69, 0.4); }
+        .status-limited { background: rgba(255, 193, 7, 0.15);  color: #ffc107; border: 1px solid rgba(255, 193, 7, 0.4); }
+
+        .section {
+            margin-bottom: 36px;
+        }
+
+        .section-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--accent);
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .section-content {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: var(--text);
+        }
+
+        .section-content p {
+            margin-bottom: 16px;
+        }
+
+        .section-content ul {
+            padding-left: 20px;
+        }
+
+        .section-content li {
+            margin-bottom: 8px;
+        }
+
+        .hover-preview {
+            text-align: center;
+            padding: 32px;
+            background: rgba(88, 101, 242, 0.05);
+            border-radius: 16px;
+            border: 1px dashed var(--border);
+        }
+
+        .hover-preview img {
+            width: 100px;
+            height: 100px;
+            filter: drop-shadow(0 0 20px rgba(139, 92, 246, 0.6));
+        }
+
+        .back-link {
+            display: block;
+            text-align: center;
+            margin: 48px 0 32px;
+            color: var(--accent);
+            font-weight: 600;
+            text-decoration: none;
+            font-size: 1.1rem;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        .not-found {
+            text-align: center;
+            padding: 100px 20px;
+            color: #ed4245;
+            font-size: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            .header { padding: 50px 24px; }
+            .content { padding: 32px 24px; }
+            .badge-name { font-size: 2rem; }
+            .badge-large { width: 140px; height: 140px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card" id="badgeCard" style="display:none">
+            <div class="header">
+                <img id="badgeImage" class="badge-large" alt="">
+                <div class="badge-name" id="badgeName"></div>
+                <div class="badge-category" id="badgeCategory"></div>
+            </div>
+            <div class="content">
+                <div class="status" id="badgeStatus"></div>
+
+                <div class="section">
+                    <div class="section-title">About this badge</div>
+                    <div class="section-content" id="badgeDetails"></div>
+                </div>
+
+                <div id="hoverSection" class="section" style="display:none">
+                    <div class="section-title">Hover Animation</div>
+                    <div class="hover-preview">
+                        <img id="hoverImage" alt="Hover preview">
+                    </div>
+                </div>
+
+                <a href="../index.html" class="back-link">← Back to all badges</a>
+            </div>
+        </div>
+
+        <div id="notFound" class="not-found">
+            Badge not found
+        </div>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const badgeId = urlParams.get('id');
+
+        if (!badgeId) {
+            document.getElementById('notFound').textContent = 'No badge ID provided';
+            document.getElementById('notFound').style.display = 'block';
+            return;
+        }
+
+        fetch('../data/badges.json')
+            .then(r => r.json())
+            .then(badges => {
+                const badge = badges.find(b => b.id === badgeId);
+
+                if (!badge) {
+                    document.getElementById('notFound').style.display = 'block';
+                    return;
+                }
+
+                // Populate page
+                document.title = `${badge.name} • Discord Badges`;
+                document.getElementById('badgeImage').src = badge.image;
+                document.getElementById('badgeName').textContent = badge.name;
+                document.getElementById('badgeCategory').textContent = badge.category.toUpperCase();
+
+                const statusEl = document.getElementById('badgeStatus');
+                if (badge.obtainable === 'yes') {
+                    statusEl.textContent = 'Obtainable';
+                    statusEl.className = 'status status-yes';
+                } else if (badge.obtainable === 'limited') {
+                    statusEl.textContent = 'Limited';
+                    statusEl.className = 'status status-limited';
+                } else {
+                    statusEl.textContent = 'Not Obtainable';
+                    statusEl.className = 'status status-no';
+                }
+
+                document.getElementById('badgeDetails').innerHTML = badge.details || badge.description || badge.earned_by;
+
+                if (badge.hover) {
+                    document.getElementById('hoverImage').src = badge.hover;
+                    document.getElementById('hoverSection').style.display = 'block';
+                }
+
+                document.getElementById('badgeCard').style.display = 'block';
+            })
+            .catch(err => {
+                document.getElementById('notFound').textContent = 'Failed to load badge data';
+                document.getElementById('notFound').style.display = 'block';
+            });
+    </script>
+</body>
+</html>
