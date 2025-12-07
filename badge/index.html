@@ -210,50 +210,49 @@
         if (!badgeId) {
             document.getElementById('notFound').textContent = 'No badge ID provided';
             document.getElementById('notFound').style.display = 'block';
-            return;
-        }
+        } else {
+            fetch('../data/badges.json')
+                .then(r => r.json())
+                .then(badges => {
+                    const badge = badges.find(b => b.id === badgeId);
 
-        fetch('../data/badges.json')
-            .then(r => r.json())
-            .then(badges => {
-                const badge = badges.find(b => b.id === badgeId);
+                    if (!badge) {
+                        document.getElementById('notFound').style.display = 'block';
+                        return;
+                    }
 
-                if (!badge) {
+                    // Populate page
+                    document.title = `${badge.name} • Discord Badges`;
+                    document.getElementById('badgeImage').src = badge.image;
+                    document.getElementById('badgeName').textContent = badge.name;
+                    document.getElementById('badgeCategory').textContent = badge.category.toUpperCase();
+
+                    const statusEl = document.getElementById('badgeStatus');
+                    if (badge.obtainable === 'yes') {
+                        statusEl.textContent = 'Obtainable';
+                        statusEl.className = 'status status-yes';
+                    } else if (badge.obtainable === 'limited') {
+                        statusEl.textContent = 'Limited';
+                        statusEl.className = 'status status-limited';
+                    } else {
+                        statusEl.textContent = 'Not Obtainable';
+                        statusEl.className = 'status status-no';
+                    }
+
+                    document.getElementById('badgeDetails').innerHTML = badge.details || badge.description || badge.earned_by;
+
+                    if (badge.hover) {
+                        document.getElementById('hoverImage').src = badge.hover;
+                        document.getElementById('hoverSection').style.display = 'block';
+                    }
+
+                    document.getElementById('badgeCard').style.display = 'block';
+                })
+                .catch(err => {
+                    document.getElementById('notFound').textContent = 'Failed to load badge data';
                     document.getElementById('notFound').style.display = 'block';
-                    return;
-                }
-
-                // Populate page
-                document.title = `${badge.name} • Discord Badges`;
-                document.getElementById('badgeImage').src = badge.image;
-                document.getElementById('badgeName').textContent = badge.name;
-                document.getElementById('badgeCategory').textContent = badge.category.toUpperCase();
-
-                const statusEl = document.getElementById('badgeStatus');
-                if (badge.obtainable === 'yes') {
-                    statusEl.textContent = 'Obtainable';
-                    statusEl.className = 'status status-yes';
-                } else if (badge.obtainable === 'limited') {
-                    statusEl.textContent = 'Limited';
-                    statusEl.className = 'status status-limited';
-                } else {
-                    statusEl.textContent = 'Not Obtainable';
-                    statusEl.className = 'status status-no';
-                }
-
-                document.getElementById('badgeDetails').innerHTML = badge.details || badge.description || badge.earned_by;
-
-                if (badge.hover) {
-                    document.getElementById('hoverImage').src = badge.hover;
-                    document.getElementById('hoverSection').style.display = 'block';
-                }
-
-                document.getElementById('badgeCard').style.display = 'block';
-            })
-            .catch(err => {
-                document.getElementById('notFound').textContent = 'Failed to load badge data';
-                document.getElementById('notFound').style.display = 'block';
-            });
+                });
+        }
     </script>
 </body>
 </html>
