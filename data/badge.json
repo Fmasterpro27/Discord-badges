@@ -1,0 +1,443 @@
+[
+    {
+        "id": "orbs",
+        "category": "profile",
+        "name": "Orbs",
+        "image": "assets/profile_badges/orb.svg",
+        "obtainable": "yes",
+        "earned_by": "Purchasing with 120 Orbs",
+        "removed_when": null,
+        "description": "Purchased using 120 Orbs from the Discord Shop",
+        "details": "<p>Rare cosmetic badge obtained by spending <strong>120 Orbs</strong> (premium currency). Orbs are usually purchased with real money or occasionally given during events.</p><ul><li>Rarity: Uncommon</li><li>Introduced: 2023</li><li>Hover text: \"Orb Collector\"</li></ul>"
+    },
+    {
+        "id": "discord-staff",
+        "category": "profile",
+        "name": "Discord Staff",
+        "image": "assets/profile_badges/discordstaff.svg",
+        "obtainable": "yes",
+        "earned_by": "Being officially employed by Discord",
+        "removed_when": null,
+        "description": "Exclusive to Discord employees",
+        "details": "<p>Pink staff badge automatically granted to all Discord Inc. employees. Cannot be obtained by regular users.</p><ul><li>Rarity: Extremely Rare (<1,000 holders)</li><li>Perk: Access to internal tools</li><li>Hover shows employee role</li></ul>"
+    },
+    {
+        "id": "partnered-server-owner",
+        "category": "profile",
+        "name": "Partnered Server Owner",
+        "image": "assets/profile_badges/discordpartner.svg",
+        "obtainable": "no",
+        "earned_by": "Owning a Discord Partner server",
+        "removed_when": "October 2023",
+        "description": "Legacy badge from the discontinued Partner Program",
+        "details": "<p>Awarded to owners of servers in the old Partner Program. New applications frozen since 2023.</p><ul><li>Rarity: Very Rare</li><li>Retained perks: Vanity URL, Partner badge on server</li></ul>"
+    },
+    {
+        "id": "hypesquad-bravery",
+        "category": "profile",
+        "name": "HypeSquad Bravery",
+        "image": "assets/profile_badges/hypesquadbravery.svg",
+        "obtainable": "no",
+        "earned_by": "HypeSquad House of Bravery member",
+        "removed_when": "September 2025",
+        "description": "Red HypeSquad house badge (discontinued)",
+        "details": "<p>Part of the HypeSquad program shut down in September 2025. Existing members keep the badge forever.</p><ul><li>House color: Red</li><li>Motto: \"Bold and Fearless\"</li></ul>"
+    },
+    {
+        "id": "hypesquad-brilliance",
+        "category": "profile",
+        "name": "HypeSquad Brilliance",
+        "image": "assets/profile_badges/hypesquadbrilliance.svg",
+        "obtainable": "no",
+        "earned_by": "HypeSquad House of Brilliance member",
+        "removed_when": "September 2025",
+        "description": "Yellow HypeSquad house badge (discontinued)",
+        "details": "<p>Represented creativity and intelligence. Program ended in 2025.</p><ul><li>House color: Yellow</li><li>Motto: \"Shine Bright\"</li></ul>"
+    },
+    {
+        "id": "hypesquad-balance",
+        "category": "profile",
+        "name": "HypeSquad Balance",
+        "image": "assets/profile_badges/hypesquadbalance.svg",
+        "obtainable": "no",
+        "earned_by": "HypeSquad House of Balance member",
+        "removed_when": "September 2025",
+        "description": "Green HypeSquad house badge (discontinued)",
+        "details": "<p>Focused on harmony and teamwork. No longer obtainable.</p><ul><li>House color: Green</li><li>Motto: \"Harmony in All\"</li></ul>"
+    },
+    {
+        "id": "bug-hunter-normal",
+        "category": "profile",
+        "name": "Bug Hunter (Normal)",
+        "image": "assets/profile_badges/discordbughunter1.svg",
+        "obtainable": "yes",
+        "earned_by": "Reporting valid bugs via Bugcrowd",
+        "removed_when": null,
+        "description": "Silver bug hunter badge",
+        "details": "<p>Awarded for accepted vulnerability reports on Discord's Bugcrowd program.</p><ul><li>Bounty: $100–$10,000</li><li>Hover shows report count</li></ul>"
+    },
+    {
+        "id": "bug-hunter-gold",
+        "category": "profile",
+        "name": "Bug Hunter (Gold)",
+        "image": "assets/profile_badges/discordbughunter2.svg",
+        "obtainable": "yes",
+        "earned_by": "Multiple high/critical reports",
+        "removed_when": null,
+        "description": "Golden elite bug hunter badge",
+        "details": "<p>Top-tier recognition for repeated high-impact findings.</p><ul><li>Rarity: <100 holders worldwide</li><li>Exclusive tester events</li></ul>"
+    },
+    {
+        "id": "early-supporter",
+        "category": "profile",
+        "name": "Early Supporter",
+        "image": "assets/profile_badges/earlysupporter.png",
+        "obtainable": "no",
+        "earned_by": "Nitro before October 10, 2018",
+        "removed_when": "2018",
+        "description": "Legacy Nitro badge from 2016–2018",
+        "details": "<p>Cutoff: October 10, 2018. One of the most valuable legacy badges.</p><ul><li>Hovers show exact join date</li></ul>"
+    },
+    {
+        "id": "active-developer",
+        "category": "profile",
+        "name": "Active Developer",
+        "image": "assets/profile_badges/activedeveloper.svg",
+        "obtainable": "no",
+        "earned_by": "Active slash commands in last 30 days",
+        "removed_when": "2025",
+        "description": "Discontinued developer badge",
+        "details": "<p>Automatically revoked if app inactive. Program ended in 2025.</p>"
+    },
+    {
+        "id": "verified-bot-developer",
+        "category": "profile",
+        "name": "Verified Bot Developer",
+        "image": "assets/profile_badges/discordbotdev.svg",
+        "obtainable": "no",
+        "earned_by": "Verified bot before August 19, 2020",
+        "removed_when": "2020",
+        "description": "Early bot verification badge",
+        "details": "<p>Legacy badge from pre-slash command era. Highly collectible.</p>"
+    },
+    {
+        "id": "original-username",
+        "category": "profile",
+        "name": "Original Username",
+        "image": "assets/profile_badges/username.png",
+        "obtainable": "no",
+        "earned_by": "Username migration 2023",
+        "removed_when": "October 2023",
+        "description": "Given to users with legacy discriminators",
+        "details": "<p>Shows you kept your original username during the 2023 change.</p>"
+    },
+    {
+        "id": "certified-moderator",
+        "category": "profile",
+        "name": "Certified Moderator",
+        "image": "assets/profile_badges/certifiedmod.svg",
+        "obtainable": "no",
+        "earned_by": "Passed Discord Moderator Exam",
+        "removed_when": "2025",
+        "description": "Discontinued certification badge",
+        "details": "<p>No new exams since 2025. Existing holders keep it.</p>"
+    },
+    {
+        "id": "moderator-programs-alumni",
+        "category": "profile",
+        "name": "Moderator Programs Alumni",
+        "image": "assets/profile_badges/discordmod.svg",
+        "obtainable": "no",
+        "earned_by": "Completed old moderator training",
+        "removed_when": "2022",
+        "description": "Legacy moderator alumni badge",
+        "details": "<p>From Discord's early moderator academy program.</p>"
+    },
+    {
+        "id": "hypesquad-events",
+        "category": "profile",
+        "name": "HypeSquad Events",
+        "image": "assets/profile_badges/hypesquadevents.svg",
+        "obtainable": "no",
+        "earned_by": "Attended HypeSquad events",
+        "removed_when": "2019",
+        "description": "Rare event attendee badge",
+        "details": "<p>Given at real-life HypeSquad meetups 2017–2019. Extremely rare.</p>"
+    },
+    {
+        "id": "lootbox",
+        "category": "profile",
+        "name": "Lootbox",
+        "image": "assets/profile_badges/discordlootbox.svg",
+        "obtainable": "no",
+        "earned_by": "2024 April Fools event",
+        "removed_when": "April 2024",
+        "description": "Clown Lootbox event badge",
+        "details": "<p>Earned by collecting all 9 lootboxes and equipping the clown decoration.</p>"
+    },
+    {
+        "id": "nitro",
+        "category": "profile",
+        "name": "Nitro",
+        "image": "assets/profile_badges/discordnitro.svg",
+        "obtainable": "yes",
+        "earned_by": "Active Nitro subscription",
+        "removed_when": null,
+        "description": "Active Nitro subscriber badge",
+        "details": "<p>Appears instantly on subscription. Evolves with Nitro tenure badges.</p>"
+    },
+    {
+        "id": "quest",
+        "category": "profile",
+        "name": "Quest",
+        "image": "assets/profile_badges/quest.png",
+        "obtainable": "yes",
+        "earned_by": "Completing Discord Quests",
+        "removed_when": null,
+        "description": "Temporary quest completion badge",
+        "details": "<p>Last 24–48 hours after completing a quest. Often rewards free Nitro.</p>"
+    },
+    {
+        "id": "nitro-bronze",
+        "category": "nitro",
+        "name": "Bronze (1 month)",
+        "image": "assets/nitro_badge/bronze.png",
+        "hover": "assets/nitro_badge/hover/Bronze.svg",
+        "obtainable": "yes",
+        "earned_by": "1 month continuous Nitro",
+        "details": "<p>First tier of evolving Nitro badge (2024+ system).</p>"
+    },
+    {
+        "id": "nitro-silver",
+        "category": "nitro",
+        "name": "Silver (3 months)",
+        "image": "assets/nitro_badge/silver.png",
+        "hover": "assets/nitro_badge/hover/Silver.svg",
+        "obtainable": "yes",
+        "earned_by": "3 consecutive months Nitro",
+        "details": "<p>Second tier with subtle animation on hover.</p>"
+    },
+    {
+        "id": "nitro-gold",
+        "category": "nitro",
+        "name": "Gold (6 months)",
+        "image": "assets/nitro_badge/gold.png",
+        "hover": "assets/nitro_badge/hover/Gold.svg",
+        "obtainable": "yes",
+        "earned_by": "6 consecutive months Nitro",
+        "details": "<p>Popular milestone badge.</p>"
+    },
+    {
+        "id": "nitro-platinum",
+        "category": "nitro",
+        "name": "Platinum (12 months)",
+        "image": "assets/nitro_badge/platinum.png",
+        "hover": "assets/nitro_badge/hover/Platinum.svg",
+        "obtainable": "yes",
+        "earned_by": "1 year continuous Nitro",
+        "details": "<p>Prestigious anniversary badge.</p>"
+    },
+    {
+        "id": "nitro-diamond",
+        "category": "nitro",
+        "name": "Diamond (24 months)",
+        "image": "assets/nitro_badge/diamond.png",
+        "hover": "assets/nitro_badge/hover/Diamond.svg",
+        "obtainable": "yes",
+        "earned_by": "2 years continuous Nitro",
+        "details": "<p>Sparkling diamond evolution.</p>"
+    },
+    {
+        "id": "nitro-emerald",
+        "category": "nitro",
+        "name": "Emerald (36 months)",
+        "image": "assets/nitro_badge/emerald.png",
+        "hover": "assets/nitro_badge/hover/Emerald.svg",
+        "obtainable": "yes",
+        "earned_by": "3 years continuous Nitro",
+        "details": "<p>Green gem for triple-year loyalty.</p>"
+    },
+    {
+        "id": "nitro-ruby",
+        "category": "nitro",
+        "name": "Ruby (60 months)",
+        "image": "assets/nitro_badge/ruby.png",
+        "hover": "assets/nitro_badge/hover/Ruby.svg",
+        "obtainable": "yes",
+        "earned_by": "5 years continuous Nitro",
+        "details": "<p>Fiery red veteran badge.</p>"
+    },
+    {
+        "id": "nitro-opal",
+        "category": "nitro",
+        "name": "Opal (72+ months)",
+        "image": "assets/nitro_badge/opal.png",
+        "hover": "assets/nitro_badge/hover/Opal.svg",
+        "obtainable": "yes",
+        "earned_by": "6+ years continuous Nitro",
+        "details": "<p>Ultimate iridescent top-tier badge.</p>"
+    },
+    {
+        "id": "booster-1-month",
+        "category": "booster",
+        "name": "Server boosting (1 Month)",
+        "image": "assets/nitro_booster/discordboost1.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 1 month"
+    },
+    {
+        "id": "booster-2-months",
+        "category": "booster",
+        "name": "Server boosting (2 Months)",
+        "image": "assets/nitro_booster/discordboost2.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 2 months"
+    },
+    {
+        "id": "booster-3-months",
+        "category": "booster",
+        "name": "Server boosting (3 Months)",
+        "image": "assets/nitro_booster/discordboost3.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 3 months"
+    },
+    {
+        "id": "booster-6-months",
+        "category": "booster",
+        "name": "Server boosting (6 Months)",
+        "image": "assets/nitro_booster/discordboost4.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 6 months"
+    },
+    {
+        "id": "booster-9-months",
+        "category": "booster",
+        "name": "Server boosting (9 Months)",
+        "image": "assets/nitro_booster/discordboost5.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 9 months"
+    },
+    {
+        "id": "booster-1-year",
+        "category": "booster",
+        "name": "Server boosting (1 Year)",
+        "image": "assets/nitro_booster/discordboost6.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 1 year"
+    },
+    {
+        "id": "booster-15-months",
+        "category": "booster",
+        "name": "Server boosting (1 Year 3 Months)",
+        "image": "assets/nitro_booster/discordboost7.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 15 months"
+    },
+    {
+        "id": "booster-18-months",
+        "category": "booster",
+        "name": "Server boosting (1 Year 6 Months)",
+        "image": "assets/nitro_booster/discordboost8.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 18 months"
+    },
+    {
+        "id": "booster-2-years",
+        "category": "booster",
+        "name": "Server boosting (2 Years)",
+        "image": "assets/nitro_booster/discordboost9.svg",
+        "obtainable": "yes",
+        "earned_by": "Boosting any server for 2 years"
+    },
+    {
+        "id": "server-boost-level-0",
+        "category": "server",
+        "name": "Boosted Server Level 0",
+        "image": "assets/server_badge/Boost0.svg",
+        "obtainable": "yes",
+        "earned_by": "No boosts"
+    },
+    {
+        "id": "server-boost-level-1",
+        "category": "server",
+        "name": "Boosted Server Level 1",
+        "image": "assets/server_badge/Boost1.svg",
+        "obtainable": "yes",
+        "earned_by": "1+ boost"
+    },
+    {
+        "id": "server-boost-level-2",
+        "category": "server",
+        "name": "Boosted Server Level 2",
+        "image": "assets/server_badge/Boost2Dark.svg",
+        "dark_version": "assets/server_badge/Boost2Light.svg",
+        "obtainable": "yes",
+        "earned_by": "7+ boosts"
+    },
+    {
+        "id": "server-boost-level-3",
+        "category": "server",
+        "name": "Boosted Server Level 3",
+        "image": "assets/server_badge/Boost3Dark.svg",
+        "dark_version": "assets/server_badge/Boost3Light.svg",
+        "obtainable": "yes",
+        "earned_by": "14+ boosts"
+    },
+    {
+        "id": "server-owner",
+        "category": "server",
+        "name": "Server Owner",
+        "image": "assets/server_badge/Crown.svg",
+        "obtainable": "yes",
+        "earned_by": "Server ownership"
+    },
+    {
+        "id": "partner-server",
+        "category": "server",
+        "name": "Partner Server",
+        "image": "assets/server_badge/Partnered.svg",
+        "obtainable": "no",
+        "earned_by": "Legacy Partner Program"
+    },
+    {
+        "id": "verified-server",
+        "category": "server",
+        "name": "Verified Server",
+        "image": "assets/server_badge/Verified.svg",
+        "obtainable": "limited",
+        "earned_by": "Official brand/organization"
+    },
+    {
+        "id": "community-server",
+        "category": "server",
+        "name": "Community Server",
+        "image": "assets/server_badge/CommunityLight.svg",
+        "obtainable": "yes",
+        "earned_by": "Community mode enabled"
+    },
+    {
+        "id": "community-boosted",
+        "category": "server",
+        "name": "Community Server (Boosted)",
+        "image": "assets/server_badge/CommunityBoosted.svg",
+        "obtainable": "yes",
+        "earned_by": "Community + boosted"
+    },
+    {
+        "id": "discoverable",
+        "category": "server",
+        "name": "Discoverable",
+        "image": "assets/server_badge/DiscoverableLight.svg",
+        "dark_version": "assets/server_badge/DiscoverableDark.svg",
+        "obtainable": "yes",
+        "earned_by": "Server in Discovery"
+    },
+    {
+        "id": "im-new-here",
+        "category": "server",
+        "name": "I'm New Here",
+        "image": "assets/server_badge/NewHere.svg",
+        "obtainable": "yes",
+        "earned_by": "New member (first 7 days)"
+    }
+]
